@@ -1,7 +1,7 @@
 # transformer-pytorch
 A PyTorch implementation of transformer for text generation.
 
-## Dependencis
+## Dependencies
 - Python 3.x
 - PyTorch >= 0.4
 - tqdm
